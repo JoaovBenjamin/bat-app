@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import {Text, Pressable } from 'react-native';
+import {  Text, Pressable } from 'react-native';
 
 import { styles } from './BatButtonStyles';
 import { BatTextInput } from '../BatTextInput/BatTextInput';

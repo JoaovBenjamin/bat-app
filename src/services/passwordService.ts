@@ -1,3 +1,4 @@
+
 export default function generatePass(){
     let password:string = ''
     let characters:string =  'Aa@$#123456789bcdfegamjkOIUYEWS'

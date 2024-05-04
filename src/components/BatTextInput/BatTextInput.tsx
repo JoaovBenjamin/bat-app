@@ -14,5 +14,6 @@ export function BatTextInput(props: BatTextInputProps) {
         placeholder='PASS'
         value={props.pass}
         />
+        
   );
 }
